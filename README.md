@@ -23,9 +23,6 @@ Biblioteki wykorzystane w notebooku obejmują m.in. pandas, numpy, matplotlib or
 Notebook zawiera cały proces analizy danych, przygotowania zmiennych oraz trenowania i oceny modeli Machine Learning.
 
 ▶️ Uruchomienie projektu
-1. Sklonowanie repozytorium
-git clone https://github.com/TWOJ-LOGIN/TWOJE-REPO.git
-cd TWOJE-REPO
 2. Instalacja bibliotek
 pip install pandas numpy matplotlib scikit-learn kagglehub
 3. Uruchomienie notebooka
@@ -49,7 +46,7 @@ AIRLINE_DELAY	311 386
 AIR_SYSTEM_DELAY	303 784
 WEATHER_DELAY	35 711
 
-Dane pokazują, że zdecydowana większość lotów w analizowanym zbiorze nie posiadała opóźnienia, natomiast wśród opóźnionych lotów najczęściej występowały opóźnienia związane z późniejszym samolotem.
+Dane pokazują, że zdecydowana większość lotów w analizowanym zbiorze nie posiadała opóźnienia, natomiast wśród opóźnionych lotów najczęściej występowały opóźnienia związane z opóźnionym samolotem.
 
 👨‍💻 Autor
 
